@@ -2,12 +2,7 @@
 三角形
 """
 
-import math
 import sys
-from collections import Counter, defaultdict, deque
-from heapq import heapify, heappop, heappush
-from itertools import chain, combinations, combinations_with_replacement, permutations
-from typing import Callable, Dict, List, NamedTuple, Optional, Tuple
 
 
 def resolve() -> None:
